@@ -1,0 +1,17 @@
+body{
+	background-color:lightblue;
+	font-family: verdana;
+	text-align: center;
+}
+p.informatiicaini
+{
+  color: red;
+  font-family: verdana;
+  font-size: 130%;
+}
+p.informatiipisici
+{
+	color: lightgreen;
+  font-family: courier;
+  font-size: 160%;
+}
